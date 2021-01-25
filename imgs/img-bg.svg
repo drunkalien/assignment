@@ -1,0 +1,46 @@
+<svg width="225" height="225" viewBox="0 0 225 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="112.5" cy="112.5" r="111" fill="url(#paint0_linear)" stroke="black" stroke-width="3"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="225" height="225">
+<circle cx="112.5" cy="112.5" r="111" fill="#D4EDFE" stroke="black" stroke-width="3"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M90 -40L-187 237" stroke="black" stroke-width="3"/>
+<path d="M103 -40L-174 237" stroke="black" stroke-width="3"/>
+<path d="M116 -40L-161 237" stroke="black" stroke-width="3"/>
+<path d="M129 -40L-148 237" stroke="black" stroke-width="3"/>
+<path d="M142 -40L-135 237" stroke="black" stroke-width="3"/>
+<path d="M155 -40L-122 237" stroke="black" stroke-width="3"/>
+<path d="M168 -40L-109 237" stroke="black" stroke-width="3"/>
+<path d="M181 -40L-96 237" stroke="black" stroke-width="3"/>
+<path d="M194 -40L-83 237" stroke="black" stroke-width="3"/>
+<path d="M207 -40L-70 237" stroke="black" stroke-width="3"/>
+<path d="M220 -40L-57 237" stroke="black" stroke-width="3"/>
+<path d="M233 -40L-44 237" stroke="black" stroke-width="3"/>
+<path d="M246 -40L-31 237" stroke="black" stroke-width="3"/>
+<path d="M259 -40L-18 237" stroke="black" stroke-width="3"/>
+<path d="M272 -40L-5 237" stroke="black" stroke-width="3"/>
+<path d="M284 -40L7 237" stroke="black" stroke-width="3"/>
+<path d="M297 -40L20 237" stroke="black" stroke-width="3"/>
+<path d="M310 -40L33 237" stroke="black" stroke-width="3"/>
+<path d="M323 -40L46 237" stroke="black" stroke-width="3"/>
+<path d="M336 -40L59 237" stroke="black" stroke-width="3"/>
+<path d="M349 -40L72 237" stroke="black" stroke-width="3"/>
+<path d="M362 -40L85 237" stroke="black" stroke-width="3"/>
+<path d="M375 -40L98 237" stroke="black" stroke-width="3"/>
+<path d="M387 -40L110 237" stroke="black" stroke-width="3"/>
+<path d="M400 -40L123 237" stroke="black" stroke-width="3"/>
+<path d="M413 -40L136 237" stroke="black" stroke-width="3"/>
+<path d="M426 -40L149 237" stroke="black" stroke-width="3"/>
+<path d="M439 -40L162 237" stroke="black" stroke-width="3"/>
+<path d="M452 -40L175 237" stroke="black" stroke-width="3"/>
+<path d="M465 -40L188 237" stroke="black" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="9.5" y1="0.999994" x2="216" y2="207.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF7B1"/>
+<stop offset="0.296875" stop-color="#FED4DB"/>
+<stop offset="0.681166" stop-color="#F8FFA6"/>
+<stop offset="1" stop-color="#80E7EE"/>
+</linearGradient>
+</defs>
+</svg>

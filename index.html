@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Main</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-KD0K2VJPWQ"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-KD0K2VJPWQ");
+    </script>
+  </head>
+  <body>
+    <!--  -->
+    <nav class="nav">
+      <span class="logo"><a href="#" class="logo-link">khuja*/\</a></span>
+      <a href="https://github.com/drunkalien" class="github"
+        ><img src="./imgs/github.svg" alt="github"
+      /></a>
+      <ul class="nav-list">
+        <li class="nav-list-item contact">
+          <a href="./pages/contact.html" class="nav-list-link">Contact me</a>
+        </li>
+        <li class="nav-list-item about">
+          <a href="./pages/about.html" class="nav-list-link">About me</a>
+        </li>
+        <li class="nav-list-item gallery">
+          <a href="./pages/images.html" class="nav-list-link">Gallery</a>
+        </li>
+      </ul>
+      <div class="burger">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </nav>
+    <!--  -->
+    <main class="main">
+      <div class="main-imgs-container">
+        <img
+          src="imgs/clouds-left.svg"
+          alt="clouds"
+          class="clouds-left main-item clouds"
+        />
+        <div class="img-container">
+          <img
+            src="imgs/img-bg.svg"
+            alt="image background"
+            class="img-bg main-item"
+          />
+          <img src="imgs/me.png" alt="me" class="img-me" />
+        </div>
+        <img
+          src="imgs/clouds-right.svg"
+          alt="clouds"
+          class="clouds-right main-item clouds"
+        />
+      </div>
+
+      <div class="social-container">
+        <a href="https://t.me/kh1703">
+          <img src="imgs/telegram.svg" alt="telegram" class="social-button" />
+        </a>
+        <a href="tel:+998998512508">
+          <img src="imgs/phone.svg" alt="phone" class="social-button" />
+        </a>
+        <a href="mailto:jamshidkhujaburikhujaev@gmail.com">
+          <img src="imgs/mail.svg" alt="mail" class="social-button" />
+        </a>
+      </div>
+
+      <div class="main-par-container">
+        <h1>Jamshidkhuja Burikhujaev</h1>
+        <p class="stars">
+          <span class="star-1">*</span><span class="star-2">*</span
+          ><span class="star-3">*</span>
+        </p>
+        <p class="main-about-par">
+          I am a NodeJS Backend Developer and meme lover who is passionated
+          about computers and modern web technologies &lt;3
+        </p>
+      </div>
+    </main>
+    <section class="dev-stack">
+      <h2 class="dev-stack-heading">Dev Stack</h2>
+
+      <div class="stack-container">
+        <div class="stack node">
+          <img src="/imgs/node.svg" alt="nodejs" class="stack-img" />
+          <a href="https://nodejs.org/en/" class="stack-link node-link"
+            >NodeJS</a
+          >
+        </div>
+        <div class="stack express">
+          <img src="/imgs/express.svg" alt="express" class="stack-img" />
+          <a href="https://expressjs.com/" class="stack-link express-link"
+            >Express</a
+          >
+        </div>
+        <div class="stack mongodb">
+          <img src="/imgs/mongo.svg" alt="mongodb" class="stack-img" />
+          <a href="https://www.mongodb.com/" class="stack-link mongo-link"
+            >MongoDB</a
+          >
+        </div>
+        <div class="stack typescript">
+          <img src="/imgs/ts.svg" alt="typescript" class="stack-img ts" />
+          <a href="https://www.typescriptlang.org/" class="stack-link ts-link"
+            >TypeScript</a
+          >
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p class="footer-par">
+        Jamshidkhuja Burikhujaev. Visit my
+        <a href="https://github.com/drunkalien" class="footer-link">Github</a>
+      </p>
+    </footer>
+    <script src="scripts/index.js"></script>
+  </body>
+</html>
